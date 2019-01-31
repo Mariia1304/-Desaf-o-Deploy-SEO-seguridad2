@@ -22,6 +22,7 @@
    - Claves y permisos de usuario
    - El rol del hosting en la seguridad de Wordpress
    - Instalar plugin de seguridad(Wordfense)
+     ![Wordfence](img/wordfence.png)
 	
 
 
